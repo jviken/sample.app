@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'rails', '3.2.14'
 
@@ -7,7 +7,7 @@ gem 'rails', '3.2.14'
 
 group :development, :test do
 	gem 'sqlite3'
-	gem 'rspec-rails', '2.9.0'
+	gem 'rspec-rails'
 end
 
 
